@@ -1,6 +1,5 @@
-async function Root(){
-    const title = 'React.createElement("h1", null, "Hi");';
-    return await title;
-}
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './app.js';
 
-export default Root;
+ReactDOM.render(React.createElement(App, null), document.getElementById('root'));
