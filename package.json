@@ -1,6 +1,6 @@
 {
   "name": "@fusionstrings/pika-dev-cdn-experiment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "component/root.jsx",
   "browser": "component/root.jsx",
   "module": "component/root.jsx",
