@@ -1,9 +1,9 @@
 {
   "name": "@fusionstrings/pika-dev-cdn-experiment",
   "version": "0.1.2",
-  "main": "component/root.jsx",
-  "browser": "component/root.jsx",
-  "module": "component/root.jsx",
+  "main": "component/root.mjs",
+  "browser": "component/root.mjs",
+  "module": "component/root.mjs",
   "repository": "https://github.com/fusionstrings/pika-dev-cdn-experiment.git",
   "author": "Dilip Kr. Shukla <contact@fusionstrings.com>",
   "license": "MIT",
