@@ -1,6 +1,6 @@
 {
   "name": "pika-dev-cdn-experiment",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "component/root.js",
   "browser": "component/root.js",
   "module": "component/root.js",
