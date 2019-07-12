@@ -1,9 +1,7 @@
 import React from 'react';
 
 function Root(){
-    return (
-        <h1>Hi</h1>
-    )
+    return React.createElement("h1", null, "Hi");
 }
 
 export default Root;
