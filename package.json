@@ -1,0 +1,11 @@
+{
+  "name": "@fusionstrings/pika-dev-cdn-experiment",
+  "version": "0.1.0",
+  "main": "root.jsx",
+  "repository": "https://github.com/fusionstrings/pika-dev-cdn-experiment.git",
+  "author": "Dilip Kr. Shukla <contact@fusionstrings.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
